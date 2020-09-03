@@ -1,1 +1,2 @@
 line 1 in fileA
+Added a line in Github
